@@ -1,0 +1,1 @@
+SOSREPORT IS FROM A RHEL9.5 kernel
